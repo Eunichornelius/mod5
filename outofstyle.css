@@ -4,6 +4,10 @@ body {
     background-image: url(mittens.png); 
     background-repeat: no-repeat; background-position:top;
     background-color: black;
+    border-color: pink;
+    border-bottom-style: double;
+    border-top-style: double;
+    border-width: 6px;
     }
     h3{font-size: 85px;}
     h4{font-size: 85px;}
