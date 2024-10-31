@@ -1,0 +1,59 @@
+body { background-image: url(anthonyHopkinsPuppetl.gif);
+    background-repeat: repeat;
+    h1 {
+        color:rgb(247, 0, 255);
+        font-size: 300%;
+        font-family: fantasy;
+        text-decoration: underline wavy #FC0 10px;
+        background-color: aquamarine;
+        border-radius:30px;
+        border-color:dodgerblue;
+        border-style: dashed;
+}
+    h2 {
+        color: rgb(223, 226, 43);
+        border-color:rgb(30, 255, 68);
+        border-style: double; opacity: 0.7;
+        background-color:blue;
+        z-index: 4;
+    
+    }
+    h3{
+        color:rgb(0, 192, 16);
+        background-color: blueviolet;  opacity: 0.7;
+    }
+    h4 {
+        color: rgb(126, 0, 38);
+        background-color: teal; opacity: 0.4;
+        float:right;
+    }
+   
+    p {
+        padding-block:20px;
+        border-radius:50px;
+        border-top-color:blueviolet; border-top-style:groove; border-top-width:25px;
+        border-bottom-color:blueviolet; border-bottom-style:groove; border-bottom-width:25px;
+        font-size: 200%;
+        font-style: italic;
+        background-color: black;
+        text-shadow: #FC0 1px 0 10px;
+        text-align:center;
+    }
+    main {
+        font-size: 250%;
+        color:yellow;
+        text-shadow: teal 1px 0 10px;
+        }
+       
+}
+footer {font-size: 400%; text-transform: capitalize;text-shadow: black;}
+/* TYPE SELECTOR */
+#git_gud{
+    text-align:center;
+    font-style:bold
+}
+/* CLASS SELECTOR */
+.first_step {
+    text-emphasis-color:rgb(0, 65, 56);
+    font-family: cursive;
+}

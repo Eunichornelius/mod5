@@ -1,0 +1,38 @@
+body { 
+    h1{
+    height: 500px;
+    background-image: url(mittens.png); 
+    background-repeat: no-repeat; background-position:top;
+    background-color: black;
+    }
+    h3{font-size: 85px;}
+    h4{font-size: 85px;}
+
+}
+.column {
+    background-image: linear-gradient(to bottom right, black, white);
+    float: left;
+    width: 50%;
+  }
+.column1 {
+    background-image: linear-gradient(to bottom, black, white);
+    float: right;
+    width: 50%;
+  }
+  /* what floats in water? */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.AF {
+ text-shadow:yellow 2px 0 11px;
+ Text-align:left;
+ font-weight:bold;
+ font-size:200px;
+}
+footer{
+    float:right;
+    background-color: white; opacity: 0.3;
+    color:black;
+}
