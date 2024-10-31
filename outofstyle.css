@@ -22,6 +22,7 @@ body {
     background-image: linear-gradient(to bottom, black, white);
     float: right;
     width: 50%;
+    font-size: 45px;
   }
   /* what floats in water? */
   .row:after {
